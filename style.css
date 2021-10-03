@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+    font-family: 'Hina Mincho', serif;
+}
+.header
+{
+font-size: 30px;
+padding: 10px;
+width: 50%;
+margin: 0px;
+border-radius: 40px;
+background-color: chocolate;
+}
+
+#status
+{
+font-size: 25px;
+background-color: lightsalmon;
+margin-top:-3px ;
+width: 50%;
+border-radius: 40px;
+padding: 10px;
+}
+
+canvas{
+    border: black 7px double;
+    box-shadow: 0px 0px 50px rgb(219, 211, 93)
+}
+
